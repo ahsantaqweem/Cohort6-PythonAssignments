@@ -5,7 +5,7 @@ This repository is a collaborative space for students enrolled in the AtomCamp B
 
 *Learning by Doing: Grow Your Python Skills*
 
-While this repository provides access to assignments, the goal is to encourage independent learning and problem-solving. We recommend tackling assignments on your own first. This approach:
+While this repository provides access to assignments, the goal is to encourage independent learning and problem-solving. We recommend tackling assignments on your own first. This approach will:
 1. Deepens your understanding of Python concepts.
 2. Develops your critical thinking and problem-solving abilities.
 3. Empowers you to become a self-sufficient Pythonista.
